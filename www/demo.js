@@ -1,0 +1,1 @@
+require('./hello-world.js')({server: "ws://192.168.1.60:8080/"})
